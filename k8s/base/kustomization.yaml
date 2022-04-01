@@ -1,0 +1,5 @@
+namespace: xdmod
+commonLabels:
+  app: xdmod
+resources:
+  - namespace.yaml
